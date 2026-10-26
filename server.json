@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.lorekeeper/lorekeeper",
+  "title": "LoreKeeper",
+  "description": "Ask your own D&D and TTRPG campaign: lore, characters, and optional pictures paid in credits.",
+  "version": "1.0.1",
+  "websiteUrl": "https://www.lorekeeper.com/mcp",
+  "icons": [
+    {
+      "src": "https://www.lorekeeper.com/icons/icon-512x512.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.lorekeeper.com/mcp"
+    }
+  ]
+}
