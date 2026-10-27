@@ -1,6 +1,8 @@
 # LoreKeeper MCP server
 
-**The official MCP connector from LoreKeeper Ltd ([www.lorekeeper.com](https://www.lorekeeper.com/mcp)).** Ask Claude, ChatGPT or any MCP app about your own D&D and tabletop RPG campaigns: your worlds, your Lore Library of session recaps and setting notes, and your characters with their portraits.
+**The official MCP connector from LoreKeeper Ltd ([www.lorekeeper.com](https://www.lorekeeper.com/mcp)).**
+
+**Mess in. Magic out.** Pour in your D&D and tabletop RPG notes and documents, however messy, and LoreKeeper organises them into a safe, private store for your world: session recaps, setting notes, and characters with their portraits. Then open Claude, ChatGPT or any MCP app and ask about your world, or have it build you a sourcebook, all from what you wrote. It never changes a word of your lore.
 
 [![LoreKeeper MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.lorekeeper/lorekeeper/badges/score.svg)](https://glama.ai/mcp/connectors/com.lorekeeper/lorekeeper)
 
@@ -60,6 +62,7 @@ Apps that can't sign in can use a personal token instead: create one in LoreKeep
 
 Name LoreKeeper in the prompt, so the assistant doesn't reach for its own memory first.
 
+- "Using my LoreKeeper world, build me a sourcebook for the city of Varnholt: its history, factions, key NPCs and three adventure hooks, all from my notes."
 - "Using LoreKeeper, what did the party promise the mayor of Varnholt, and which session recap says so?"
 - "From my LoreKeeper world, give me a previously-on, the open threads and the NPCs likely to come back next session."
 - "Pull Captain Vela from LoreKeeper, show me her portrait, and draft three lines she would say about the missing ship."

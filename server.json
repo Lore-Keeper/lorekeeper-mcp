@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.lorekeeper/lorekeeper",
   "title": "LoreKeeper",
-  "description": "Ask your own D&D and TTRPG campaign: lore, characters, and optional pictures paid in credits.",
-  "version": "1.0.1",
+  "description": "Mess in, magic out: your D&D and TTRPG notes become a private world store any AI app can read.",
+  "version": "1.0.2",
   "websiteUrl": "https://www.lorekeeper.com/mcp",
   "icons": [
     {
